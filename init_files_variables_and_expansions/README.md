@@ -7,3 +7,4 @@
 6-create_local_variable.
 7-create_global_variable - Creates a global variable
 8-true_knowledge - Adds 128 toe the result of the variable TREUEKNOWLEDGE
+9-divie_and_rule - prints the result of POWER divided by DIVIDE, followed by a new line.
