@@ -8,3 +8,4 @@
 7-create_global_variable - Creates a global variable
 8-true_knowledge - Adds 128 toe the result of the variable TREUEKNOWLEDGE
 9-divie_and_rule - prints the result of POWER divided by DIVIDE, followed by a new line.
+10-Write a script that displays the result of BREATH to the power LOVE and opens a new line.
