@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -name '*.gif' | cut -c3- | rev | cut -c5- | cut -d/ -f1 | rev | sort --ignore-case
