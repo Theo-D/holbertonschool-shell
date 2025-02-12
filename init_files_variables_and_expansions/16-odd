@@ -1,0 +1,2 @@
+#!/bin/bash
+nl -n rz | tr -d ' ' | grep ^....[0-9][13579] | tr -d '[0-9]' | tr -d '\t'

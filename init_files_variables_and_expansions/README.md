@@ -13,4 +13,5 @@
 12-combinations - Create a script that prints all possible combinations of two letters, except oo.
 13-print_float - prints a number with two decimal places, followed by a new line.
 14-decimal_to_hexadecimal - converts a number from base 10 to base 16.
-15-rot13 - Encodes or decodes a ROT13 message. 
+15-rot13 - Encodes or decodes a ROT13 message.
+16-odd - prints every other line from the input, starting with the first line. 
