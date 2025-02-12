@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | cut -c3- | tr '/' '\n'
+find . -empty | cut -c3- | rev | cut -d/ -f1 | rev
