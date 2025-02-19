@@ -14,4 +14,5 @@
 13-print_float - prints a number with two decimal places, followed by a new line.
 14-decimal_to_hexadecimal - converts a number from base 10 to base 16.
 15-rot13 - Encodes or decodes a ROT13 message.
-16-odd - prints every other line from the input, starting with the first line. 
+16-odd - prints every other line from the input, starting with the first line.
+17-water_and_stir - Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result. 
